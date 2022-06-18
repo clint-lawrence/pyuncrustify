@@ -18,6 +18,8 @@ setup(
             'uncrustify=pyuncrustify:main'
         ]
     },
+    # cmake_source_dir = "uncrustify",
+    cmake_args=['-DCMAKE_BUILD_TYPE=Release'],
 
     # url='https://cmake.org/',
     # download_url='https://cmake.org/download',
@@ -53,6 +55,4 @@ setup(
     # keywords='CMake build c++ fortran cross-platform cross-compilation',
 
     # extras_require={"test": test_requirements},
-    cmake_source_dir = "uncrustify",
-    cmake_args=['-DCMAKE_BUILD_TYPE=Release'],
 )
