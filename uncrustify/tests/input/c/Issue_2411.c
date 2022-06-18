@@ -1,5 +1,0 @@
-void foo() {
-	/*
-		hello world
-	*/
-}

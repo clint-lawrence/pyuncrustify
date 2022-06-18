@@ -1,2 +1,0 @@
-struct BaseStruct {};
-struct : BaseStruct {};

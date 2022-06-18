@@ -1,3 +1,0 @@
-Limitations in uncrustify are describe at the file
-
-src/uncrustify_limits.h

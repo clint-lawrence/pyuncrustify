@@ -1,3 +1,0 @@
-class [[nodiscard]] CClass final
-{
-};
