@@ -1,6 +1,9 @@
 src/pyuncrustify/bin
 src/pyuncrustify/share
 
+_skbuild/
+wheelhouse/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
